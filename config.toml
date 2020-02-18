@@ -25,8 +25,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Alex Earnshaw"
-        tagline = "Principal Technical Writer"
-        avatar = "avatar.png"
+        tagline = "Technical Writer"
+        avatar = "new_avatar.png"
 
 
 
@@ -41,7 +41,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:#"
-        text = "00 353 (0)86 036 2096"
+        text = "+353 (0)86 036 2096"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
@@ -228,27 +228,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "writing user manuals (Installation Guides, User Guides, API Guides) and online help for a suite of telecommunications software products built on a common framework. "
 
         [[params.experience.list]]
-        title = "Software Design Engineer"
-        dates = "2001 - 2004"
-        company = "Openet"
-        details = "Telecommunications software design and development using Java."
-
-        [[params.experience.list]]
         title = "Software Engineer"
-        dates = "2000 - 2001"
-        company = "Aran Technologies"
-        details = "Telecommunications research, software design and development using C++."
-
-        [[params.experience.list]]
-        title = "Software Engineer"
-        dates = "1999 - 2000"
-        company = "Altion"
-        details = "Support and maintenance of network management software."
-
-
-
-
-
+        dates = "1998 - 2004"
+        company = "Various"
+        details = "Telecommunications software design and development for companies including Altion, Aran Technologies, and Openet. Primarliy using Java in a UNIX environment."
 
 
 
@@ -292,7 +275,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
+        details = "Reading, Listening to podcasts, Pets, Family trips"
 
 
 
